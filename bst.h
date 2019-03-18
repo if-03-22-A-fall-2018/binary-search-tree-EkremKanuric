@@ -13,6 +13,9 @@
 #ifndef ___BST_H
 #define ___BST_H
 
+#include <stdlib.h>
+#include "general.h"
+
 typedef struct Node* Bst;
 
 /**
